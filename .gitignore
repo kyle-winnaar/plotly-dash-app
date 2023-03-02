@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+[Ll]ib/
+[Ss]cripts/
+[Ss]hare/
+[Ee]tc/
+pyvenv.cfg
+__pycache__/
+
